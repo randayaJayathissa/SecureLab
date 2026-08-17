@@ -2,7 +2,7 @@
 
 A progressive Linux server security and monitoring
 homelab built to explore system administration,
-network security, security monitoring and DevSecOps.
+network security, security monitoring and DevOps.
 
 ## Objectives
 
