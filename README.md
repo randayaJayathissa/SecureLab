@@ -1,6 +1,6 @@
 # SecureLab
 
-A progressive Linux server security homelab built to practice real-world system administration, network security, and DevSecOps skills — one week at a time.
+A progressive Linux server security homelab built to practice real-world system administration, network security, and DevSecOps skills 
 
 ---
 
